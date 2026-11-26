@@ -18,4 +18,4 @@ Python · Java · C++ · Lua/Luau · SQL · FastAPI · Next.js · Google Cloud �
 ## Looking for
 Graduate and entry-level roles in **IT, data, QA, cyber and tech consulting**, starting 2027 (UK and the Gulf).
 
-📫 [LinkedIn](https://www.linkedin.com/in/daahir-musse-912803290)
+📫 [LinkedIn](https://www.linkedin.com/in/daahir-musse)
